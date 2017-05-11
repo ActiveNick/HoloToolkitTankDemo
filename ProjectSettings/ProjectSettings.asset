@@ -506,7 +506,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HoloToolkitTankDemo
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: C:\Dev\Git\HoloToolkitTankDemo\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
