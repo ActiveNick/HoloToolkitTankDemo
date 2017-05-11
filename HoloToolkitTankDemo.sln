@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloToolkitTankDemo", "HoloToolkitTankDemo.csproj", "{98FAE55D-08A3-D253-44D6-2200B84F14DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloToolkitTankDemo.Editor", "HoloToolkitTankDemo.Editor.csproj", "{2DF39FE9-CE66-BDA8-BE86-90AE7177A84D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FAE55D-08A3-D253-44D6-2200B84F14DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FAE55D-08A3-D253-44D6-2200B84F14DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FAE55D-08A3-D253-44D6-2200B84F14DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FAE55D-08A3-D253-44D6-2200B84F14DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF39FE9-CE66-BDA8-BE86-90AE7177A84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF39FE9-CE66-BDA8-BE86-90AE7177A84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF39FE9-CE66-BDA8-BE86-90AE7177A84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF39FE9-CE66-BDA8-BE86-90AE7177A84D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
